@@ -9,7 +9,7 @@
 #include "bspline_opt/lbfgs.hpp"
 
 // Gradient and elasitc band optimization
-
+ 
 // Input: a signed distance field and a sequence of points
 // Output: the optimized sequence of points
 // The format of points: N x 3 matrix, each row is a point
